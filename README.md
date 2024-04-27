@@ -4,4 +4,4 @@
 
 Copyright (c) 2024 yoggy
 
-Released under the [MIT license](LICENSE.txt)
+Released under the [MIT license](LICENSE)
